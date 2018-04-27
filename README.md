@@ -30,3 +30,9 @@ password	| 	密码		| Password		| パスワード
   <string name="password">密码</string>
 </resources>
 ```
+
+
+#### *注意事项
+    key：固定标识
+    支持注释：key列可以使用注释（直接在Excel中写入注释）
+    完善表格 别出现空行，不会报错但是会写空字符串
