@@ -1,0 +1,2 @@
+# generate_android_strings_tool
+Excel生成Android Stings.xml工具
